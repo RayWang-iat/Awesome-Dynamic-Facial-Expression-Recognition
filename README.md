@@ -230,7 +230,7 @@
 </tbody>
 </table>
 
-## Reference 
+## References
 <!-- Using Vancouver Format -->
 ### 2020
 1. Jiang X, Zong Y, Zheng W, Tang C, Xia W, Lu C, Liu J. DFEW: A Large-scale Database for Recognizing Dynamic Facial Expressions in the Wild. *MM*, 2020. [[Paper](https://doi.org/10.1145/3394171.3413620)]
