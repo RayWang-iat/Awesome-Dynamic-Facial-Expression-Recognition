@@ -219,7 +219,7 @@
   </tr>
   <tr>
     <td>MAE-DFER<sup>[13]</sup></td>
-    <td>arXiv'23</td>
+    <td>MM'23</td>
     <td>63.41</td>
     <td>74.43</td>
     <td>43.12</td>
@@ -227,6 +227,16 @@
     <td>41.62</td>
     <td>54.31</td>
   </tr>
+  <tr>
+    <td>DFER-CLIP<sup>[14]</sup></td>
+    <td>BMVC'23</td>
+    <td>59.61</td>
+    <td>71.25</td>
+    <td>41.27</td>
+    <td>51.65</td>
+    <td>39.89</td>
+    <td>52.55</td>
+  </tr> 
 <!-- copy this to add new methods
   <tr>
     <td></td>  
@@ -260,4 +270,5 @@
 10. Li T, Chan KL, Tjahjadi T. Multi-Scale Correlation Module for Video-based Facial Expression Recognition in the Wild. *Pattern Recognition*, 2023. [[Paper](https://doi.org/10.1016/j.patcog.2023.109691)]
 11. Lee B, Shin H, Ku B, Ko H. Frame Level Emotion Guided Dynamic Facial Expression Recognition With Emotion Grouping. *CVPRW*, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Rethinking_the_Learning_Paradigm_for_Dynamic_Facial_Expression_Recognition_CVPR_2023_paper.html)] 
 12. Wang H, Li B, Wu S, Shen S, Liu F, Ding S, Zhou A. Rethinking the Learning Paradigm for Dynamic Facial Expression Recognition. *CVPR*, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Rethinking_the_Learning_Paradigm_for_Dynamic_Facial_Expression_Recognition_CVPR_2023_paper.html)] [[Code](https://github.com/faceeyes/M3DFEL)]
-13. Sun L, Lian Z, Liu B, Tao J. MAE-DFER: Efficient Masked Autoencoder for Self-supervised Dynamic Facial Expression Recognition. *arXiv*, 2023. [[Paper](https://arxiv.org/abs/2307.02227)] [[Code](https://github.com/sunlicai/MAE-DFER)] 
+13. Sun L, Lian Z, Liu B, Tao J. MAE-DFER: Efficient Masked Autoencoder for Self-supervised Dynamic Facial Expression Recognition. *MM*, 2023. [[Paper](https://arxiv.org/abs/2307.02227)] [[Code](https://github.com/sunlicai/MAE-DFER)]
+14. Zhao Z, Patras I. Prompting Visual-Language Models for Dynamic Facial Expression Recognition. *BMVC*, 2023. [[Paper](https://arxiv.org/abs/2308.13382)] [[Code](https://github.com/zengqunzhao/DFER-CLIP)]
